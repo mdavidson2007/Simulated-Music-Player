@@ -12,11 +12,6 @@
  * C++ (up two octaves)
  * Db (D flat)
  * Db+ (D flat up one octave)
- *
- * No updates to this code should be necessary.
- *
- * @author Your CS Professors
- * Date: 10/18/2024
  */
 public class NoteConverter {
     // we assume that our piano always starts at its lowest C.
